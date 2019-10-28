@@ -1,0 +1,27 @@
+_repo: The-Marrying-Man_60520
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farrell, Joseph
+    alias: Farrel, Joseph
+    gutenberg_agent_id: '35576'
+    url: http://www.gutenberg.org/2009/agents/35576
+description: ''
+gutenberg_issued: '2019-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Space travelers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Relativity (Physics) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- GITenberg
+title: The Marrying Man
+url: http://www.gutenberg.org/ebooks/60520
